@@ -1,0 +1,440 @@
+1
+00:00:00,600 --> 00:00:03,417
+Matriks Tarih kanalına hoş geldiniz.
+
+2
+00:00:03,417 --> 00:00:07,820
+Bugün, dünya tarihinin akışını değiştiren bir günü konuşacağız.
+
+3
+00:00:07,820 --> 00:00:10,814
+Yirmi dokuz Mayıs bin dört yüz elli üç.
+
+4
+00:00:10,814 --> 00:00:12,575
+İstanbul'un Fethi.
+
+5
+00:00:14,175 --> 00:00:17,911
+Yirmi dokuz Mayıs sabahı, güneş henüz doğmamıştı.
+
+6
+00:00:17,911 --> 00:00:22,381
+Konstantinopolis surlarının önünde binlerce meşale yanıyordu.
+
+7
+00:00:22,381 --> 00:00:27,648
+Elli üç gündür süren kuşatma, son ve en büyük hücumla sona ermek üzereydi.
+
+8
+00:00:27,648 --> 00:00:33,282
+Bin yüz yılı aşkın bir imparatorluğun kaderi, birkaç saat içinde belirlenecekti.
+
+9
+00:00:34,882 --> 00:00:41,957
+Konstantinopolis, Roma İmparatoru Konstantin tarafından üç yüz otuz yılında başkent ilan edilmişti.
+
+10
+00:00:41,957 --> 00:00:49,095
+Şehir, Avrupa ile Asya'nın kesiştiği noktada, Boğaziçi, Haliç ve Marmara Denizi arasında kurulmuştu.
+
+11
+00:00:49,095 --> 00:00:51,709
+Üç tarafı denizle çevriliydi.
+
+12
+00:00:51,709 --> 00:00:55,597
+Kara tarafında ise Theodosius Surları uzanıyordu.
+
+13
+00:00:55,597 --> 00:01:03,564
+İç sur, dış sur ve önlerindeki derin hendekle birlikte, bu savunma hattı yüzyıllar boyunca aşılamaz kabul edildi.
+
+14
+00:01:05,164 --> 00:01:08,328
+Şehir tarih boyunca defalarca kuşatıldı.
+
+15
+00:01:08,328 --> 00:01:11,978
+Emeviler, Avarlar ve Bulgarlar surları geçemedi.
+
+16
+00:01:11,978 --> 00:01:14,472
+Osmanlılar da şansını denedi.
+
+17
+00:01:14,472 --> 00:01:22,017
+Yıldırım Bayezid, bin üç yüz doksan dört yılında şehri uzun süre abluka altında tuttu, ancak Timur'un Anadolu'ya
+
+18
+00:01:22,017 --> 00:01:25,484
+girmesiyle kuşatmayı kaldırmak zorunda kaldı.
+
+19
+00:01:25,484 --> 00:01:31,021
+Bin dört yüz yirmi iki yılında ise İkinci Murad'ın kuşatması da sonuçsuz kaldı.
+
+20
+00:01:31,021 --> 00:01:34,124
+Fetih, nesiller boyu süren bir hayaldi.
+
+21
+00:01:35,724 --> 00:01:42,458
+Bin dört yüz elli bir yılında, on dokuz yaşındaki İkinci Mehmed ikinci kez Osmanlı tahtına çıktı.
+
+22
+00:01:42,458 --> 00:01:47,092
+Avrupa'da birçok kişi onu tecrübesiz bir genç olarak görüyordu.
+
+23
+00:01:47,092 --> 00:01:49,007
+Ama yanılıyorlardı.
+
+24
+00:01:49,007 --> 00:01:54,259
+Mehmed birkaç dil biliyor, matematik, tarih ve askerlik üzerine okuyordu.
+
+25
+00:01:54,259 --> 00:01:56,298
+Tek bir hedefi vardı:
+
+26
+00:01:56,298 --> 00:01:58,090
+Konstantinopolis.
+
+27
+00:01:58,090 --> 00:02:04,330
+Surların ardında ise son Bizans İmparatoru, On Birinci Konstantin Palaiologos bekliyordu.
+
+28
+00:02:04,330 --> 00:02:11,065
+Kararlı ve cesur bir hükümdardı, fakat elinde zayıflamış bir devlet ve boşalmış bir hazine vardı.
+
+29
+00:02:12,665 --> 00:02:19,622
+Bin dört yüz elli iki baharında Mehmed, Boğaz'ın en dar noktasında bir kale inşa ettirmeye başladı.
+
+30
+00:02:19,622 --> 00:02:25,200
+Karşı kıyıda, dedesi Yıldırım Bayezid'in yaptırdığı Anadolu Hisarı duruyordu.
+
+31
+00:02:25,200 --> 00:02:31,405
+Binlerce işçi gece gündüz çalıştı ve Rumeli Hisarı yaklaşık dört buçuk ayda tamamlandı.
+
+32
+00:02:31,405 --> 00:02:35,604
+Artık Karadeniz'den şehre gelecek yardım kesilebilirdi.
+
+33
+00:02:35,604 --> 00:02:38,863
+Bu yüzden kaleye Boğazkesen adı verildi.
+
+34
+00:02:40,463 --> 00:02:46,814
+Bu sırada Urban adında Macar asıllı bir top dökümcüsü, hizmetlerini önce Bizans'a sunmuştu.
+
+35
+00:02:46,814 --> 00:02:50,144
+Ancak imparator istediği ücreti ödeyemedi.
+
+36
+00:02:50,144 --> 00:02:53,967
+Urban da Edirne'ye, Sultan Mehmed'in yanına geldi.
+
+37
+00:02:53,967 --> 00:02:58,221
+Burada o güne kadar görülmemiş büyüklükte toplar döküldü.
+
+38
+00:02:58,221 --> 00:03:02,291
+En büyüğü, yüzlerce kiloluk taş gülleler atabiliyordu.
+
+39
+00:03:02,291 --> 00:03:08,025
+Edirne'den İstanbul'a taşınması için onlarca çift öküz ve yüzlerce asker gerekti.
+
+40
+00:03:08,025 --> 00:03:11,725
+Barut çağı, surların çağını bitirmeye geliyordu.
+
+41
+00:03:13,325 --> 00:03:15,605
+Konstantin de boş durmadı.
+
+42
+00:03:15,605 --> 00:03:20,885
+Haliç'in girişine, Galata ile şehir arasına kalın bir demir zincir gerdirdi.
+
+43
+00:03:20,885 --> 00:03:24,486
+Böylece Osmanlı donanması Haliç'e giremeyecekti.
+
+44
+00:03:24,486 --> 00:03:27,546
+Batı'dan beklenen büyük yardım gelmedi.
+
+45
+00:03:27,546 --> 00:03:34,627
+Ancak Cenevizli komutan Giovanni Giustiniani, yedi yüz askerle şehre ulaştı ve kara surlarının savunmasını
+
+46
+00:03:34,627 --> 00:03:35,887
+üstlendi.
+
+47
+00:03:35,887 --> 00:03:40,327
+Şehri savunanların sayısı yalnızca yedi ila sekiz bin kadardı.
+
+48
+00:03:40,327 --> 00:03:47,047
+Karşılarında ise kaynaklara göre seksen bin ile yüz bin arasında asker bulunan Osmanlı ordusu vardı.
+
+49
+00:03:48,647 --> 00:03:53,041
+Nisan ayının başında Osmanlı ordusu surların önüne ulaştı.
+
+50
+00:03:53,041 --> 00:03:56,744
+Sultan'ın otağı, Topkapı'nın karşısına kuruldu.
+
+51
+00:03:56,744 --> 00:04:00,070
+Altı Nisan'da toplar ateşlenmeye başladı.
+
+52
+00:04:00,070 --> 00:04:05,153
+Dev gülleler surlara çarptıkça yer sarsılıyor, taşlar parçalanıyordu.
+
+53
+00:04:05,153 --> 00:04:11,116
+Ancak savunucular her gece yıkılan yerleri toprak, kereste ve fıçılarla onarıyordu.
+
+54
+00:04:11,116 --> 00:04:14,693
+Kuşatma, beklenenden çok daha uzun sürecekti.
+
+55
+00:04:16,293 --> 00:04:20,697
+Yirmi Nisan'da şehre yardım getiren dört gemi ufukta göründü.
+
+56
+00:04:20,697 --> 00:04:23,351
+Üçü Cenevizli, biri Bizanslıydı.
+
+57
+00:04:23,351 --> 00:04:27,695
+Osmanlı donanması bu büyük gemileri durdurmak için saldırdı.
+
+58
+00:04:27,695 --> 00:04:31,375
+Rüzgâr ve yüksek bordalar gemilerin işine yaradı.
+
+59
+00:04:31,375 --> 00:04:35,477
+Sultan Mehmed, atıyla denize girecek kadar öfkelenmişti.
+
+60
+00:04:35,477 --> 00:04:38,976
+Gemiler sonunda zinciri geçip Haliç'e sığındı.
+
+61
+00:04:38,976 --> 00:04:44,767
+Bu yenilgi, donanma komutanı Baltaoğlu Süleyman Bey'in görevden alınmasına yol açtı.
+
+62
+00:04:46,367 --> 00:04:51,498
+Mehmed, zinciri aşmak için tarihin en cesur hamlelerinden birini yaptı.
+
+63
+00:04:51,498 --> 00:04:58,608
+Yirmi bir Nisan'ı yirmi iki Nisan'a bağlayan gece, Galata'nın arkasındaki tepelerden yağlanmış kızaklar
+
+64
+00:04:58,608 --> 00:04:59,844
+döşendi.
+
+65
+00:04:59,844 --> 00:05:06,954
+Gemiler öküzler ve insan gücüyle çekilerek karadan yürütüldü ve Kasımpaşa tarafından Haliç'e indirildi.
+
+66
+00:05:06,954 --> 00:05:13,630
+Sabah uyanan Bizanslılar, zincirin ardında yetmişe yakın Osmanlı gemisini görünce dehşete düştü.
+
+67
+00:05:13,630 --> 00:05:17,649
+Artık surların Haliç tarafı da savunulmak zorundaydı.
+
+68
+00:05:19,249 --> 00:05:22,580
+Mayıs ayında savaş yerin altına da taşındı.
+
+69
+00:05:22,580 --> 00:05:26,396
+Osmanlı lağımcıları surların altına tüneller kazdı.
+
+70
+00:05:26,396 --> 00:05:31,303
+Bizans tarafı ise karşı tüneller açarak bu girişimleri tek tek bozdu.
+
+71
+00:05:31,303 --> 00:05:36,815
+Ahşap kuşatma kuleleri surlara yaklaştırıldı, hendekler doldurulmaya çalışıldı.
+
+72
+00:05:36,815 --> 00:05:39,238
+Her iki taraf da yorulmuştu.
+
+73
+00:05:39,238 --> 00:05:44,326
+Şehirde yiyecek azalıyor, Osmanlı ordugâhında ise sabırsızlık artıyordu.
+
+74
+00:05:45,926 --> 00:05:50,234
+Yirmi iki Mayıs gecesi gökyüzünde bir ay tutulması görüldü.
+
+75
+00:05:50,234 --> 00:05:53,753
+Şehirde bu, kötü bir alamet olarak yorumlandı.
+
+76
+00:05:53,753 --> 00:05:57,758
+Eski bir kehanete göre şehir, ay küçülürken düşecekti.
+
+77
+00:05:57,758 --> 00:06:01,095
+Ertesi günlerde ağır bir sis şehri kapladı.
+
+78
+00:06:01,095 --> 00:06:04,857
+Sultan Mehmed, imparatora son bir teklif gönderdi:
+
+79
+00:06:04,857 --> 00:06:08,558
+Şehri teslim ederse canı ve halkı bağışlanacaktı.
+
+80
+00:06:08,558 --> 00:06:11,167
+Konstantin bu teklifi reddetti.
+
+81
+00:06:11,167 --> 00:06:17,477
+Şehri teslim etmenin kendi elinde olmadığını, onun uğruna ölmeye hazır olduklarını bildirdi.
+
+82
+00:06:19,077 --> 00:06:24,333
+Yirmi dokuz Mayıs'ın ilk saatlerinde davullar ve zurnalar çalmaya başladı.
+
+83
+00:06:24,333 --> 00:06:26,839
+Hücum üç dalga hâlinde geldi.
+
+84
+00:06:26,839 --> 00:06:31,423
+Önce başıbozuklar, ardından Anadolu askerleri surlara yüklendi.
+
+85
+00:06:31,423 --> 00:06:34,967
+Savunucular her iki dalgayı da geri püskürttü.
+
+86
+00:06:34,967 --> 00:06:39,673
+Ardından Sultan, en seçkin birlikleri olan yeniçerileri gönderdi.
+
+87
+00:06:39,673 --> 00:06:44,196
+Tam bu sırada Giustiniani ağır yaralandı ve surlardan çekildi.
+
+88
+00:06:44,196 --> 00:06:46,518
+Savunmada çözülme başladı.
+
+89
+00:06:46,518 --> 00:06:52,997
+Rivayete göre Ulubatlı Hasan, Osmanlı sancağını surların burcuna dikti ve oklarla şehit düştü.
+
+90
+00:06:52,997 --> 00:06:56,603
+Kısa süre içinde Osmanlı askerleri şehre girdi.
+
+91
+00:06:58,203 --> 00:07:03,953
+İmparator On Birinci Konstantin, son anda surlarda savaşarak hayatını kaybetti.
+
+92
+00:07:03,953 --> 00:07:10,463
+Öğleden sonra Sultan Mehmed, beyaz atı üzerinde şehre girdi ve doğruca Ayasofya'ya yöneldi.
+
+93
+00:07:10,463 --> 00:07:15,455
+Ayasofya camiye çevrildi ve ilk cuma namazı bir Haziran'da kılındı.
+
+94
+00:07:15,455 --> 00:07:21,206
+Yirmi bir yaşındaki genç hükümdar, artık Fatih Sultan Mehmed olarak anılacaktı.
+
+95
+00:07:22,806 --> 00:07:26,798
+Fatih, harap olmuş şehri yeniden canlandırmaya girişti.
+
+96
+00:07:26,798 --> 00:07:31,147
+Anadolu'dan ve Balkanlardan aileler İstanbul'a yerleştirildi.
+
+97
+00:07:31,147 --> 00:07:37,999
+Rum Ortodoks Patrikhanesi Gennadios'un başkanlığında yeniden kuruldu ve farklı inançlardan topluluklara
+
+98
+00:07:37,999 --> 00:07:39,846
+güvenceler verildi.
+
+99
+00:07:39,846 --> 00:07:44,136
+Camiler, çarşılar, medreseler ve yeni bir saray inşa edildi.
+
+100
+00:07:44,136 --> 00:07:50,988
+İstanbul, Osmanlı İmparatorluğu'nun başkenti olarak yaklaşık beş yüz yıl boyunca bir dünya şehri olmaya
+
+101
+00:07:50,988 --> 00:07:52,359
+devam etti.
+
+102
+00:07:53,959 --> 00:08:00,965
+Pek çok tarihçi, İstanbul'un Fethi'ni Orta Çağ'ın sonu ve Yeni Çağ'ın başlangıcı olarak kabul eder.
+
+103
+00:08:00,965 --> 00:08:07,908
+Bin yılı aşkın Doğu Roma İmparatorluğu sona ermiş, büyük toplar savaşın kurallarını değiştirmişti.
+
+104
+00:08:07,908 --> 00:08:14,725
+Ticaret yollarının Osmanlı kontrolüne geçmesi, Avrupalıları yeni deniz yolları aramaya yöneltti.
+
+105
+00:08:14,725 --> 00:08:19,712
+İtalya'ya göç eden Bizanslı âlimler ise Rönesans'a katkıda bulundu.
+
+106
+00:08:19,712 --> 00:08:24,446
+Bir genç sultanın hayali, dünya tarihinin yönünü değiştirmişti.
+
+107
+00:08:26,046 --> 00:08:28,420
+İzlediğiniz için teşekkürler.
+
+108
+00:08:28,420 --> 00:08:35,369
+Videoyu beğendiyseniz, Matriks Tarih kanalına abone olmayı ve yorumlarda hangi tarihî olayı merak ettiğinizi
+
+109
+00:08:35,369 --> 00:08:37,106
+yazmayı unutmayın.
+
+110
+00:08:37,106 --> 00:08:39,828
+Bir sonraki videoda görüşmek üzere.
+
