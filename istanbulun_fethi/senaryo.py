@@ -1,0 +1,116 @@
+# -*- coding: utf-8 -*-
+# İstanbul'un Fethi: 1453 — Matriks Tarih
+# Her sahne: (görsel türü, başlık, seslendirme metni)
+
+SAHNELER = [
+    ("intro", "Matriks Tarih",
+     "Matriks Tarih kanalına hoş geldiniz. Bugün, dünya tarihinin akışını değiştiren bir günü konuşacağız. "
+     "Yirmi dokuz Mayıs bin dört yüz elli üç. İstanbul'un Fethi."),
+
+    ("dawn_city", "29 Mayıs 1453, Şafak",
+     "Yirmi dokuz Mayıs sabahı, güneş henüz doğmamıştı. Konstantinopolis surlarının önünde binlerce meşale yanıyordu. "
+     "Elli üç gündür süren kuşatma, son ve en büyük hücumla sona ermek üzereydi. "
+     "Bin yüz yılı aşkın bir imparatorluğun kaderi, birkaç saat içinde belirlenecekti."),
+
+    ("map", "Dünyanın Kilidi",
+     "Konstantinopolis, Roma İmparatoru Konstantin tarafından üç yüz otuz yılında başkent ilan edilmişti. "
+     "Şehir, Avrupa ile Asya'nın kesiştiği noktada, Boğaziçi, Haliç ve Marmara Denizi arasında kurulmuştu. "
+     "Üç tarafı denizle çevriliydi. Kara tarafında ise Theodosius Surları uzanıyordu. "
+     "İç sur, dış sur ve önlerindeki derin hendekle birlikte, bu savunma hattı yüzyıllar boyunca aşılamaz kabul edildi."),
+
+    ("timeline", "Daha Önceki Kuşatmalar",
+     "Şehir tarih boyunca defalarca kuşatıldı. Emeviler, Avarlar ve Bulgarlar surları geçemedi. "
+     "Osmanlılar da şansını denedi. Yıldırım Bayezid, bin üç yüz doksan dört yılında şehri uzun süre abluka altında tuttu, "
+     "ancak Timur'un Anadolu'ya girmesiyle kuşatmayı kaldırmak zorunda kaldı. "
+     "Bin dört yüz yirmi iki yılında ise İkinci Murad'ın kuşatması da sonuçsuz kaldı. "
+     "Fetih, nesiller boyu süren bir hayaldi."),
+
+    ("portraits", "İki Hükümdar",
+     "Bin dört yüz elli bir yılında, on dokuz yaşındaki İkinci Mehmed ikinci kez Osmanlı tahtına çıktı. "
+     "Avrupa'da birçok kişi onu tecrübesiz bir genç olarak görüyordu. Ama yanılıyorlardı. "
+     "Mehmed birkaç dil biliyor, matematik, tarih ve askerlik üzerine okuyordu. Tek bir hedefi vardı: Konstantinopolis. "
+     "Surların ardında ise son Bizans İmparatoru, On Birinci Konstantin Palaiologos bekliyordu. "
+     "Kararlı ve cesur bir hükümdardı, fakat elinde zayıflamış bir devlet ve boşalmış bir hazine vardı."),
+
+    ("fortress", "Boğazkesen: Rumeli Hisarı",
+     "Bin dört yüz elli iki baharında Mehmed, Boğaz'ın en dar noktasında bir kale inşa ettirmeye başladı. "
+     "Karşı kıyıda, dedesi Yıldırım Bayezid'in yaptırdığı Anadolu Hisarı duruyordu. "
+     "Binlerce işçi gece gündüz çalıştı ve Rumeli Hisarı yaklaşık dört buçuk ayda tamamlandı. "
+     "Artık Karadeniz'den şehre gelecek yardım kesilebilirdi. Bu yüzden kaleye Boğazkesen adı verildi."),
+
+    ("cannon_forge", "Urban'ın Dev Topları",
+     "Bu sırada Urban adında Macar asıllı bir top dökümcüsü, hizmetlerini önce Bizans'a sunmuştu. "
+     "Ancak imparator istediği ücreti ödeyemedi. Urban da Edirne'ye, Sultan Mehmed'in yanına geldi. "
+     "Burada o güne kadar görülmemiş büyüklükte toplar döküldü. "
+     "En büyüğü, yüzlerce kiloluk taş gülleler atabiliyordu. Edirne'den İstanbul'a taşınması için onlarca çift öküz "
+     "ve yüzlerce asker gerekti. Barut çağı, surların çağını bitirmeye geliyordu."),
+
+    ("chain", "Bizans Hazırlanıyor",
+     "Konstantin de boş durmadı. Haliç'in girişine, Galata ile şehir arasına kalın bir demir zincir gerdirdi. "
+     "Böylece Osmanlı donanması Haliç'e giremeyecekti. "
+     "Batı'dan beklenen büyük yardım gelmedi. Ancak Cenevizli komutan Giovanni Giustiniani, yedi yüz askerle şehre ulaştı "
+     "ve kara surlarının savunmasını üstlendi. Şehri savunanların sayısı yalnızca yedi ila sekiz bin kadardı. "
+     "Karşılarında ise kaynaklara göre seksen bin ile yüz bin arasında asker bulunan Osmanlı ordusu vardı."),
+
+    ("siege_start", "Kuşatma Başlıyor",
+     "Nisan ayının başında Osmanlı ordusu surların önüne ulaştı. Sultan'ın otağı, Topkapı'nın karşısına kuruldu. "
+     "Altı Nisan'da toplar ateşlenmeye başladı. Dev gülleler surlara çarptıkça yer sarsılıyor, taşlar parçalanıyordu. "
+     "Ancak savunucular her gece yıkılan yerleri toprak, kereste ve fıçılarla onarıyordu. "
+     "Kuşatma, beklenenden çok daha uzun sürecekti."),
+
+    ("naval", "20 Nisan Deniz Savaşı",
+     "Yirmi Nisan'da şehre yardım getiren dört gemi ufukta göründü. Üçü Cenevizli, biri Bizanslıydı. "
+     "Osmanlı donanması bu büyük gemileri durdurmak için saldırdı. Rüzgâr ve yüksek bordalar gemilerin işine yaradı. "
+     "Sultan Mehmed, atıyla denize girecek kadar öfkelenmişti. Gemiler sonunda zinciri geçip Haliç'e sığındı. "
+     "Bu yenilgi, donanma komutanı Baltaoğlu Süleyman Bey'in görevden alınmasına yol açtı."),
+
+    ("ships_over_land", "Gemiler Karadan Yürüyor",
+     "Mehmed, zinciri aşmak için tarihin en cesur hamlelerinden birini yaptı. "
+     "Yirmi bir Nisan'ı yirmi iki Nisan'a bağlayan gece, Galata'nın arkasındaki tepelerden yağlanmış kızaklar döşendi. "
+     "Gemiler öküzler ve insan gücüyle çekilerek karadan yürütüldü ve Kasımpaşa tarafından Haliç'e indirildi. "
+     "Sabah uyanan Bizanslılar, zincirin ardında yetmişe yakın Osmanlı gemisini görünce dehşete düştü. "
+     "Artık surların Haliç tarafı da savunulmak zorundaydı."),
+
+    ("tunnels", "Lağımlar ve Kuleler",
+     "Mayıs ayında savaş yerin altına da taşındı. Osmanlı lağımcıları surların altına tüneller kazdı. "
+     "Bizans tarafı ise karşı tüneller açarak bu girişimleri tek tek bozdu. "
+     "Ahşap kuşatma kuleleri surlara yaklaştırıldı, hendekler doldurulmaya çalışıldı. "
+     "Her iki taraf da yorulmuştu. Şehirde yiyecek azalıyor, Osmanlı ordugâhında ise sabırsızlık artıyordu."),
+
+    ("eclipse", "Kehanetler ve Son Teklif",
+     "Yirmi iki Mayıs gecesi gökyüzünde bir ay tutulması görüldü. Şehirde bu, kötü bir alamet olarak yorumlandı. "
+     "Eski bir kehanete göre şehir, ay küçülürken düşecekti. Ertesi günlerde ağır bir sis şehri kapladı. "
+     "Sultan Mehmed, imparatora son bir teklif gönderdi: Şehri teslim ederse canı ve halkı bağışlanacaktı. "
+     "Konstantin bu teklifi reddetti. Şehri teslim etmenin kendi elinde olmadığını, onun uğruna ölmeye hazır olduklarını bildirdi."),
+
+    ("assault", "Son Hücum",
+     "Yirmi dokuz Mayıs'ın ilk saatlerinde davullar ve zurnalar çalmaya başladı. Hücum üç dalga hâlinde geldi. "
+     "Önce başıbozuklar, ardından Anadolu askerleri surlara yüklendi. Savunucular her iki dalgayı da geri püskürttü. "
+     "Ardından Sultan, en seçkin birlikleri olan yeniçerileri gönderdi. "
+     "Tam bu sırada Giustiniani ağır yaralandı ve surlardan çekildi. Savunmada çözülme başladı. "
+     "Rivayete göre Ulubatlı Hasan, Osmanlı sancağını surların burcuna dikti ve oklarla şehit düştü. "
+     "Kısa süre içinde Osmanlı askerleri şehre girdi."),
+
+    ("hagia_sophia", "Fatih Şehirde",
+     "İmparator On Birinci Konstantin, son anda surlarda savaşarak hayatını kaybetti. "
+     "Öğleden sonra Sultan Mehmed, beyaz atı üzerinde şehre girdi ve doğruca Ayasofya'ya yöneldi. "
+     "Ayasofya camiye çevrildi ve ilk cuma namazı bir Haziran'da kılındı. "
+     "Yirmi bir yaşındaki genç hükümdar, artık Fatih Sultan Mehmed olarak anılacaktı."),
+
+    ("aftermath", "Yeni Bir Başkent",
+     "Fatih, harap olmuş şehri yeniden canlandırmaya girişti. Anadolu'dan ve Balkanlardan aileler İstanbul'a yerleştirildi. "
+     "Rum Ortodoks Patrikhanesi Gennadios'un başkanlığında yeniden kuruldu ve farklı inançlardan topluluklara güvenceler verildi. "
+     "Camiler, çarşılar, medreseler ve yeni bir saray inşa edildi. "
+     "İstanbul, Osmanlı İmparatorluğu'nun başkenti olarak yaklaşık beş yüz yıl boyunca bir dünya şehri olmaya devam etti."),
+
+    ("legacy", "Bir Çağın Sonu",
+     "Pek çok tarihçi, İstanbul'un Fethi'ni Orta Çağ'ın sonu ve Yeni Çağ'ın başlangıcı olarak kabul eder. "
+     "Bin yılı aşkın Doğu Roma İmparatorluğu sona ermiş, büyük toplar savaşın kurallarını değiştirmişti. "
+     "Ticaret yollarının Osmanlı kontrolüne geçmesi, Avrupalıları yeni deniz yolları aramaya yöneltti. "
+     "İtalya'ya göç eden Bizanslı âlimler ise Rönesans'a katkıda bulundu. "
+     "Bir genç sultanın hayali, dünya tarihinin yönünü değiştirmişti."),
+
+    ("outro", "Matriks Tarih",
+     "İzlediğiniz için teşekkürler. Videoyu beğendiyseniz, Matriks Tarih kanalına abone olmayı ve yorumlarda "
+     "hangi tarihî olayı merak ettiğinizi yazmayı unutmayın. Bir sonraki videoda görüşmek üzere."),
+]
