@@ -36,7 +36,7 @@ BUILD = os.path.join(BASE, "build")
 CIKTI = os.path.join(BASE, "cikti")
 OUT = os.path.join(CIKTI, "Istanbulun_Fethi_1453_MatriksTarih.mp4")
 LEAD, TAIL = 0.6, 1.0
-ESPEAK_HIZ = "172"
+ESPEAK_HIZ = "155"
 
 GOLD = (212, 175, 55)
 RED = (178, 34, 34)
@@ -1397,7 +1397,7 @@ def main():
     for sc in scenes:
         sc["chunks"] = subtitle_chunks(sc["text"], sc["adur"])
     total = sum(s["dur"] for s in scenes)
-    print(f"Toplam süre: {total / 60:.0f} dk {total % 60:.0f} sn")
+    print(f"Toplam süre: {int(total // 60)} dk {int(total % 60)} sn")
 
     if "--onizleme" in sys.argv:
         od = os.path.join(BUILD, "onizleme")
